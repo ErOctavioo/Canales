@@ -1,0 +1,63 @@
+#EXTM3U
+
+
+#EXTINF:=1,LA 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:=1,LA 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+
+#EXTINF:=1,ANTENA 3 HD GEO
+https://atresplayerp-i.akamaized.net/geoantena3mpp/bitrate_4.m3u8
+
+#EXTINF:=1,ANTENA 3 HD
+https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_4.m3u8
+
+#EXTINF:=1,CUATRO HD
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/index.m3u8
+
+#EXTINF:=1,TELECINCO HD
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/index.m3u8
+
+
+#EXTINF:=1,LA SEXTA HD GEO
+https://atresplayerp-i.akamaized.net/geolasextampp/bitrate_4.m3u8
+
+#EXTINF:=1,LA SEXTA HD
+https://atresplayerp-i.akamaized.net/lasextampp/bitrate_4.m3u8
+
+#EXTINF:=1,NEOX HD GEO
+https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_4.m3u8
+
+#EXTINF:=1,NEOX HD 
+https://atresplayerp-i.akamaized.net/neoxmpp/bitrate_4.m3u8
+
+#EXTINF:=1,MEGA HD GEO
+https://atresplayerp-i.akamaized.net/geomegampp/bitrate_4.m3u8
+
+#EXTINF:=1,MEGA HD
+https://atresplayerp-i.akamaized.net/megampp/bitrate_4.m3u8
+
+#EXTINF:=1,ATRESERIES HD GEO
+https://atresplayerp-i.akamaized.net/geoa3seriesmpp/bitrate_4.m3u8
+
+#EXTINF:=1,ATRESERIES HD
+https://atresplayerp-i.akamaized.net/a3seriesmpp/bitrate_4.m3u8
+
+#EXTINF:=1,FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:=1,DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:=1,ENERGY
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:=1,PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:=1,BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:=1,24H
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
